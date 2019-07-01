@@ -1,6 +1,6 @@
 # Test Driven Development with Mocha & Chai
 
-In today's lecture we reviewed some of the concepts presented over the weekend. Emphasizing the phylosophy of testing first - implementing later that drives TDD (Test Driven Development).
+In today's lecture we reviewed some of the concepts presented over the weekend. We emphasized the phylosophy of TDD (Test Driven Development) : testing first - and implementing later.
 
 ## TDD
 TDD is a development approach that puts tests at the core of the development life-cycle. It starts with writing tests first – and then it is followed by implementation of actual functionality (behaviour).
