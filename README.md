@@ -21,8 +21,8 @@ TDD is a development approach that puts tests at the core of the development lif
 6. Increased code reusability
 
 ## Unit Testing
-Unit testing is critical for success of application development as it ensures that functionality works as expected. It also speeds up development.
-The premise is to write the test before the code, test one individual component at a time, hence providing confidence that functionality is not broken as team member refactor each others' code.
+Unit testing is critical for the success of application development, as it helps ensure that functionality works as expected. It also helps speed up development.
+Its premise is to write the test before the code, testing one individual component at a time. Hence, it improves confidence that functionality is not broken as team members refactor each others' code.
 
 ## Mocha & Chai
 After expanding on core concepts on TDD and Unit testing, we explored Mocha as JS testing framework and Chai as a companion BDD testing library. [Mocha is a feature-rich JavaScript test framework](https://mochajs.org/) that makes asynchronous testing made simple & fun.
